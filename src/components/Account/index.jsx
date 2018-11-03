@@ -8,7 +8,7 @@ const Account = () => {
         </div>
         <div className="orders-body">
 
-            <p>Want some React UI?<br>
+            <p>Want some React UI?<br/>
               Email me :) m.fuadmakarim@gmail.com
             </p>
         </div>
