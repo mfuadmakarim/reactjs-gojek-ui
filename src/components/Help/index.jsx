@@ -8,7 +8,9 @@ const Help = () => {
         </div>
         <div className="orders-body">
 
-            <p>UI under development :)</p>
+            <p>Want some React UI?<br>
+              Email me :) m.fuadmakarim@gmail.com
+            </p>
         </div>
     </div>
   );
